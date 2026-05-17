@@ -35,6 +35,6 @@ python cli.py list     # 전체 여행지 목록
 ## 📁 프로젝트 구조
 
 ```
-📦 1week challenge
+📦 01
  ┗ 📜 cli.py
 ```
